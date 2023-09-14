@@ -6,4 +6,4 @@ First steps JS
 ![HomenLera](https://github.com/mialna/javascript/blob/main/homem-letra.gif)
 
 #### Link
-![AulaJS](https://google.com)
+[AulaJS](https://google.com)
